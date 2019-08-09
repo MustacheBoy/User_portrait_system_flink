@@ -11,7 +11,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * Created by li on 2019/1/5.
+ * Created by sunchen on 2019/8/9.
  */
 public class HbaseUtils {
     private static Admin admin = null;
